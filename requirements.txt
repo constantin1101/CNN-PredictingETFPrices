@@ -1,0 +1,13 @@
+pandas
+numpy
+keras
+tensorflow
+plotly
+plotly.graph_objects
+plotly.subplots
+cv2
+re
+os
+sklearn.utils
+sklearn.model_selection
+sklearn.metrics
