@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CNN-PredictingETFPrices",
+			"path": "."
+		},
+		{
+			"name": "data",
+			"path": "../CNNsPredictingETFPrices/data"
+		}
+	],
+	"settings": {}
+}
